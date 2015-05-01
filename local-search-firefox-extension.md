@@ -1,3 +1,5 @@
+Copyright 2015 by Ron Koerner
+
 # Overview
 
 This document describes a browser extension which combines local searching, tagging, bookmarking and categorization.
