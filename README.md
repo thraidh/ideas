@@ -15,5 +15,5 @@ All ideas are described in detail in their own file.
 - Wiki: git for storage, extensible MD as language, export to high quality PDF and DOCX
 - MD to DOCX converter using templates
 - automatic asset extraction from videos (especially poses and faces)
-- 3D Modeler working like LEGO
+- 3D Modeler working like LEGO, meaning you are actually building instead of modeling
 
