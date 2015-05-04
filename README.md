@@ -1,9 +1,15 @@
 # List of ideas
 
 This repository contains a number of things which apparently do not exist, but which I would use if they existed.
-The licence for all documents in this repository is CC-BY-NC-SA, so you are not allowed to use them or the contained ideas commercially. If you implement some of the ideas, you must do so under an Open Source licence or talk to me.
+The licence for all documents in this repository is CC-BY-NC-SA, so you
+cannot use this to implement commercially. Using the contained documents as
+design documents for a commercial product counts as a commercial use.
+Rewriting the documents to create a real design document would be creating a
+derivative which would also be CC-BY-NC-SA and above restrictions would still
+hold. Anyway, there is no reason not to create a non-commercial product or talk to me about alternatives.
 
-All ideas are described in detail in their own file.
+All ideas are described in detail in their own file and will be fledged out
+with time.
 
 # Ideas
 
