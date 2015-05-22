@@ -14,7 +14,7 @@ with time.
 # Ideas
 
 - AI Mind: sophisticated NPC AI
-- FF Extension for bookmarking with local searching
+- Firefox Extension for bookmarking with local searching
 - Work Management tool
 - MORPG: game relying on procedural generation
 - graPHI: create graphs, pictures and diagrams textually (TeX for graphs)
@@ -22,4 +22,7 @@ with time.
 - MD to DOCX converter using templates
 - automatic asset extraction from videos (especially poses and faces)
 - 3D Modeler working like LEGO, meaning you are actually building instead of modeling
+- something like Xtext targeting Netbeans, but more flexible
+- something like Xtend, but using plain Java + annotations
+
 
