@@ -20,7 +20,7 @@ Building on https://github.com/sirthias/pegdown and MultiMarkdown
 (https://github.com/fletcher/MultiMarkdown).
 
 Add extension block syntax to allow inline text-based generation of text or
-images.
+images (http://www.mattgreer.org/articles/creating-a-pegdown-plugin/).
 
 ## Intermediate model
 
