@@ -55,7 +55,9 @@ generated quests.
 - you have a vault of items in the lobby. When entering a game you can take
     whatever items from your vault you want. During the game you can send items
     to your vault, but cannot take anything from the vault. If you survive the
-    game, all items on your person will end up in your vault.
+    game, all items on your person will end up in your vault. You can quit
+    a game whenever you want and keep all your items and stats, but then you
+    cannot go back and continue the story line. You cannot quit while fighting.
 - items from vaults can be traded among players. Money is an item as everything
     else, so you can exchange an one or more items for money or other items
 - a market place/auction house is there, if you don't know a buyer or seller
@@ -71,4 +73,20 @@ generated quests.
 
 ## Saved Games
 
+- you can save a number of games, but at most 3*n games can be saved if there
+    are n players total. Saved games are shared between all players in the game,
+    so if you play with a total of 4 players there is only 1 saved game for 4
+    players, so it only counts as 1/4th of a game per player. A game shared
+    among 2 people is worth 1/2 saved game and single-player games count full.
+    Therefore you can have either 3 single-player save games, 192 64-player
+    save games or anything in between.
+    
 ## Generated Terrain
+
+- terrain is generated using simulated geology and hydrology
+- probably using a torus world
+- AI will find the interesting spots and build a story around that
+- or: AI will build the story first and nudge the terrain generator into the
+    right direction to build a suitable terrain
+- or: something in between
+
