@@ -42,7 +42,7 @@ only DOCX.
 The heavy lifting for DOCX will be done by https://github.com/plutext/docx4j.
 
 The DOCX output will allow to use a template DOCX input file, so that the
-output looks like the template, but with the context of the input markdown
+output looks like the template, but with the contents of the input markdown
 file.
 
 
