@@ -90,3 +90,32 @@ generated quests.
     right direction to build a suitable terrain
 - or: something in between
 
+## Random Ideas Based on Pat Rothfuss' Comments
+
+- don't do anything with children
+- realistic NPC reactions
+    - the should have memory
+    - do not day "oh someone killed my buddy, but that's probably ok 2 seconds later"
+    - "someone is dismanteling my stuff, that's probably ok"
+- player should never feel helplessness
+- player should be able to do something about whatever bothers him
+- player should be able to talk to every npc
+- no npc should be marked "bad" by the game
+- a "raider" should be identifiable by his outfit, but still it should be possible to befriend him
+- roleplaying: npcs should react to your appearance (i.e. having your gun out)
+- roleplaying: optionally must eat and drink and sleep
+- npcs should not pick a fight with a guy in a robot suit
+- voice recognition
+- disguise, by wearing the same clothes as the npcs
+- buddies should not walk into line of fire (especially not yours)
+- npcs need survival instinct
+- if npcs are outclassed, they should recognize it and act accordingly like giving up or running away
+- assign people to make stuff you choose including making ingredients after showing them the process a couple of times
+- settlers should have a clear job and not wander around aimlessly
+- settlers should have interests and work better when assigned to appropriate jobs
+- actual tower defense mechanics for settlements
+- settlers should choose a job on their own
+- settlers may be lazy and cause conflict
+- settlers should complain about other lazy settlers or if they have to do jobs they don't like
+- work schedule, so everyone can be equally unhappy about doing bad jobs
+
