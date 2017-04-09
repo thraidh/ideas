@@ -24,5 +24,5 @@ with time.
 - 3D Modeler working like LEGO, meaning you are actually building instead of modeling
 - something like Xtext targeting Netbeans, but more flexible
 - something like Xtend, but using plain Java + annotations
-
+- a shared whiteboard application, where freehand drawings are automatically converted into a real diagram, as soon as an element is done
 
